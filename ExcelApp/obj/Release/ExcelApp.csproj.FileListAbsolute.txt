@@ -1,0 +1,11 @@
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\bin\Release\ExcelApp.exe.config
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\bin\Release\ExcelApp.exe
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\bin\Release\ExcelApp.pdb
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\bin\Release\EPPlus.dll
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\bin\Release\EPPlus.xml
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.csprojAssemblyReference.cache
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.csproj.ResolveComReference.cache
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.csproj.CoreCompileInputs.cache
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.csproj.CopyComplete
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.exe
+C:\Users\carlos\.jenkins\workspace\DotNetPipeline\ExcelApp\obj\Release\ExcelApp.pdb
