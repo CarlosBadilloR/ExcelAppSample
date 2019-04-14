@@ -1,0 +1,11 @@
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\bin\Debug\ExcelApp.exe.config
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\bin\Debug\ExcelApp.exe
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\bin\Debug\ExcelApp.pdb
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\bin\Debug\EPPlus.dll
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\bin\Debug\EPPlus.xml
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.csprojAssemblyReference.cache
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.csproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.csproj.CopyComplete
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.exe
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.pdb
+C:\Users\carlos\source\repos\ExcelApp\ExcelApp\obj\Debug\ExcelApp.csproj.ResolveComReference.cache
